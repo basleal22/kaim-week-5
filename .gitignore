@@ -1,0 +1,7 @@
+/data
+data/
+/photos
+photos/
+/venv
+/.env
+scripts/__pycache__
