@@ -1,0 +1,8 @@
+data/
+/data
+/photos
+photos/
+kaim-week-5/.env
+/venv
+venv/
+/scripts/__pycache__
