@@ -1,2 +1,10 @@
 /data
 data/
+/.env
+.env/
+.env
+/photos
+photos/
+/venv
+venv/
+/scripts/__pycache__
